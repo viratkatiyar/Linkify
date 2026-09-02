@@ -1,7 +1,9 @@
  # Linkify
 
 Linkify turns plain-text URLs into clickable links.
+
 Developed by Virat Katiyar
+
 Connect with me - https://www.linkedin.com/in/viratkatiyar/
 ## Installation
 
